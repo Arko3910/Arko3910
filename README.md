@@ -1,5 +1,5 @@
 <h1 align="center">Asifuzzaman Arko</h1>
-<h3 align="center">AI Engineer (in progress) | Automation Strategist | Founder, ARK OTOMATION</h3>
+<h3 align="center">Automation Expert | AI EnthusiastAutomation Strategist | Founder, ARK OTOMATION</h3>
 
 ---
 
